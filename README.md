@@ -11,22 +11,19 @@ This project will add an additional indicator: It will compare how hurricanes do
 ## Executive Summary
  
 ## Goal:
-- Our team aims to provide an initial proof of concept for a potential web application using the Flask library for Python. 
-
-This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected before and after a recent hurricane. 
+- Our team aims to provide an initial proof of concept for a potential web application using the Flask library for Python. This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected before and after a recent hurricane. 
 
 ## Limitations
 - For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
 
-## Installing / Getting started
+## Libraries Used
 
-To complete the analysis, the following libraries were utilized:
+- To following libraries were used:
 
-Imports UPDATE
-```
+<ol> Imports UPDATE
 
 ## Data Dictionary UPDATE THIS
-
+```
 | Column | Description |
 | --- | --- |
 | **Zip** | Zip Code. |
