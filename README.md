@@ -45,7 +45,7 @@ This project will add an additional indicator: It will compare how hurricanes do
 
 
 
-![Flask Home Page](./flask_home.png)
+![Flask Home Page](./visuals/flask_home.png)
  
 
 ## Sources/Citation
