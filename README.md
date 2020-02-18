@@ -28,21 +28,11 @@ This project will add an additional indicator: It will compare how hurricanes do
 | --- | --- |
 | **Zip** | Zip Code. |
 | **Pop Rank** | Ordinal ppoulation size. 1 is the largest populated zip code, 2 is the second largest. |
-| **Latitude** | The latitude at which specific property is located. |
-| **Longitude** | The longitude at which specific property is located. |
-| **Maximum** | The maximum price for properties in a particular zipcode.|
-| **Mean** | The average price for properties in a particular zipcode. |
-| **Median** | The median price for properties in a particular zipcode.|
-| **Minimum** | The minimum price for properties in a particular zipcode.|
-| **Area** | The total floor area of the property in square footage. |
-| **Bedrooms** | The number of bedrooms that the property has. |
-| **Bathrooms** | The number of bathrooms that the property has. |
-| **Price** | The selling price for a specific property listed on Trulia and the ["Zestimate"](https://www.zillow.com/zestimate/) valuation for one listed on Zillow.|
-| **State** | The state in which a specific property is listed. |
-| **Zip** | The zipcode selected.|
+| **X Mean Median** | The median sale price for the nation averaged by zip code for the year. |
+| **X Affected** | 1 if the zipcode was impacted by Hurricane X according to FEMA, 0 otherwise. |
+| **% Change After X** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
+| **Harvey Category** | The numerical categorical severity declaration from FEMA, 0-5 with 5 being the highest. |
  
-
-
 ```
  
 
@@ -55,7 +45,7 @@ This project will add an additional indicator: It will compare how hurricanes do
 
 
 
-![placeholder flask webapp](./Screenshot.png)
+![Flask Home Page](./Screenshot.png)
  
 
 ## Sources/Citation
