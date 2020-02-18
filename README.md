@@ -58,6 +58,6 @@ Imports UPDATE
 
 ## Contact Info
 
-Rose Dennis - email: foo<br>
-Drew Dellarocco- email: foo <br>
+Rose Dennis - email: rosedennis@umass.edu<br>
+Drew Dellarocco- email: drewdellarocco@gmail.com <br>
 Robert Becotte - email: robert.becotte@gmail.com <br>
