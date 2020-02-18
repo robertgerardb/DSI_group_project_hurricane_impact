@@ -20,7 +20,7 @@ This project will add an additional indicator: It will compare how hurricanes do
 
 - To following libraries were used:
 
-<ol> Imports UPDATE
+<ol> Imports UPDATE </ol>
 
 ## Data Dictionary UPDATE THIS
 ```
