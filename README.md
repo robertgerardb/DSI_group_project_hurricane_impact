@@ -38,14 +38,12 @@ This project will add an additional indicator: It will compare how hurricanes do
 
 ## Features
  
-* TUse this flask app to see summary statistics and potential impact on the input zip code<br>
-* foo<br> 
-* bar <br>
-* foo <br>
-
-
-
+* Enter a zip code to see the summary statistics<br> 
+* Home Page of Flask App <br>
 ![Flask Home Page](./visuals/flask_home.png)
+
+* Results Page of Flask App<br>
+![Flask Home Page](./visuals/flask_results.png)
  
 
 ## Sources/Citation
