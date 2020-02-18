@@ -1,13 +1,22 @@
 
-# Extracting the impact on zip code median sale prices following a hurricane.
+# Extracting the Impact on Median Real Estate Sale Prices Following a Hurricane.
 This project represents a collaboration between General Assembly and New Light Technologies.
 
 ## Problem Statement:
 
--Copy paste from prompt UPDATE
+During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage.
+Existing indicators of forecasted damage include number of structures within the affected area, number of people in the area, number of households, demographics of the impacted population, etc.
+This project will add an additional indicator: It will compare how hurricanes do or do not impact median sale prices by zip code before and after the storm.
+
+## Executive Summary
  
-## Objective:
-- Copy paste from prompt
+## Goal:
+- Our team aims to provide an initial proof of concept for a potential web application using the Flask library for Python. 
+
+This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected before and after a recent hurricane. 
+
+## Limitations
+- For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
 
 ## Installing / Getting started
 
@@ -20,8 +29,8 @@ Imports UPDATE
 
 | Column | Description |
 | --- | --- |
-| **Address** | The address for specific property listing. |
-| **City** | The city in which specific property is located. |
+| **Zip** | Zip Code. |
+| **Pop Rank** | Ordinal ppoulation size. 1 is the largest populated zip code, 2 is the second largest. |
 | **Latitude** | The latitude at which specific property is located. |
 | **Longitude** | The longitude at which specific property is located. |
 | **Maximum** | The maximum price for properties in a particular zipcode.|
