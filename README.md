@@ -68,7 +68,7 @@ foo bar
 ### Home Page of Flask App <br>
 ![Flask Home Page](./visuals/flask_home.png)
 
-### Results Page of Flask App for Zip Code 77071 Houston (affected by Hurricane Harvey)<br>
+### Results Page of Flask App for Zip Code 77071 Houston (Median Sale Price dropped ~24.4% after directly Harvey)<br>
 ![Flask Home Page](./visuals/flask_results.png)
  
 ## Sources/Citation
