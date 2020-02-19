@@ -1,15 +1,14 @@
 
 # Extracting the Impact on Real Estate Sale Prices Following a Hurricane
 This project represents a collaboration between General Assembly DSI10-BOS and New Light Technologies.
-
+```
 ├── DSI_group_project_hurricane_impact
     ├── Visuals
         ├── fooooo.png
     ├── README.md
     ├── foo.ipynb
     └── presentation.pdf
-
-
+```
 ## Problem Statement
 
 During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage.
@@ -59,10 +58,10 @@ foo bar
 ## Features
  
 * Enter a zip code to see the summary statistics<br> 
-* Home Page of Flask App <br>
+#### Home Page of Flask App <br>
 ![Flask Home Page](./visuals/flask_home.png)
 
-* Results Page of Flask App<br>
+#### Results Page of Flask App<br>
 ![Flask Home Page](./visuals/flask_results.png)
  
 
