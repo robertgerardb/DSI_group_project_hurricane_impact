@@ -83,7 +83,8 @@ foo bar
 
 5. <a href="https://www.getzips.com/county.htm">Converting counties to zipcodes (webscraping)</a> 
 
-6. <a href="">foo</a> 
+6. <a href="https://www.zillow.com/browse/homes/tx/harris-county/
+">Zillow: Harris County, TX Zip Codes</a> 
 
 7. <a href="">foo</a> 
 
