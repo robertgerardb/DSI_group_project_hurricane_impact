@@ -1,5 +1,5 @@
 
-# Visualizing the Impact on Real Estate Sale Prices Following a Hurricane
+# Visualizing the Perceived and Actual Impact on Real Estate Sale Prices Following a Hurricane
 This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ```
 ├── DSI_group_project_hurricane_impact
