@@ -1,6 +1,8 @@
 
 # Visualizing the Perceived/Actual Impact on Real Estate Sale Prices Following a Hurricane
 This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
+---
+## Directory Structure
 ```
 ├── DSI_group_project_hurricane_impact
     ├── flask_app
@@ -96,8 +98,6 @@ foo bar
 6. <a href="https://www.fema.gov/disasters?field_dv2_state_territory_tribal_value_selective=All&field_dv2_incident_type_tid=49124&field_dv2_declaration_type_value=All&field_dv2_incident_begin_value%5Bvalue%5D%5Bmonth%5D=&field_dv2_incident_begin_value%5Bvalue%5D%5Byear%5D=&field_dv2_incident_end_value%5Bvalue%5D%5Bmonth%5D=&field_dv2_incident_end_value%5Bvalue%5D%5Byear%5D=">Easily searchable FEMA database for finding storms:</a> 
 
 7. <a href="">foo</a> 
-
-
 
 ## Contact Info
 
