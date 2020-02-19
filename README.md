@@ -3,12 +3,21 @@
 This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ```
 ├── DSI_group_project_hurricane_impact
+    ├── flask_app
+        ├── static
+            └── style.css
+        ├── templates  
+            ├── colors.html
+            ├── data_frame.html
+            ├── home.html
+            └── land.html
+        └── app_starter.py
     ├── visuals
         ├── flask_home.png
-        └── flask_results.pdf
+        └── flask_results.png
     ├── README.md
-    ├── foo.ipynb
-    └── presentation.pdf
+    ├── FOO PYTHON DOCUMENTS TO UPDATE.ipynb
+    └── presentationFOOOBARRR.pdf
 ```
 ## Problem Statement
 
