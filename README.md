@@ -57,9 +57,9 @@ foo bar
 | --- | --- |
 | **Zip** | Zip Code. |
 | **Pop Rank** | Ordinal poulation size. 1 is the largest populated zip code, 2 is the second largest. |
-| **X Mean Median** | The median sale price for the nation averaged by zip code for the year. |
-| **X Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
-| **% Change After X** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
+| **XXXX Mean Median** | The average annual sale price of monthly median sale prices recorded for the zip code. |
+| **Hurricane Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
+| **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 | **Harvey Category** | The numerical categorical severity declaration from FEMA using Saffir-Simpson standard, 0-5 with 5 being the highest. |
 
 ## Minimum Viable Product for Web Application
