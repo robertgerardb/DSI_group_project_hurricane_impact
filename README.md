@@ -64,17 +64,17 @@ foo bar
 
 ## Minimum Viable Product for Web Application
  
-* Enter a zip code to see the summary statistics<br> 
-#### Home Page of Flask App <br>
+### Enter a zip code to see the summary statistics<br> 
+### Home Page of Flask App <br>
 ![Flask Home Page](./visuals/flask_home.png)
 
-#### Results Page of Flask App<br>
+### Results Page of Flask App for Zip Code 77071 Houston (affected by Hurricane Harvey)<br>
 ![Flask Home Page](./visuals/flask_results.png)
  
 ## Sources/Citation
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
 
-2. <a href="">Bar</a> 
+2. <a href="">fooBar</a> 
 
 ## Contact Info
 
