@@ -92,5 +92,5 @@ foo bar
 ## Contact Info
 
 Rose Dennis - email: rosedennis@umass.edu , github: RoseXDennis <br>
-Drew Dellarocco - email: drewdellarocco@gmail.com , github: <br>
+Drew Dellarocco - email: drewdellarocco@gmail.com , github: drewdellarocco <br>
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
