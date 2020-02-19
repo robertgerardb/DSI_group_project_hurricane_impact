@@ -1,8 +1,16 @@
 
-# Extracting the Impact on Real Estate Sale Prices Following a Hurricane.
-This project represents a collaboration between General Assembly and New Light Technologies.
+# Extracting the Impact on Real Estate Sale Prices Following a Hurricane
+This project represents a collaboration between General Assembly DSI10-BOS and New Light Technologies.
 
-## Problem Statement:
+├── DSI_group_project_hurricane_impact
+    ├── Visuals
+        ├── fooooo.png
+    ├── README.md
+    ├── foo.ipynb
+    └── presentation.pdf
+
+
+## Problem Statement
 
 During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage.
 Existing indicators of forecasted damage include number of structures within the affected area, number of people in the area, number of households, demographics of the impacted population, etc.
@@ -13,7 +21,7 @@ This project will add an additional persepctive: It will compare how hurricanes 
 Foo Bar
 foo bar
  
-## Goal:
+## Goal
 - Our team aims to provide an initial proof of concept for a potential web application using Flask software for Python. This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected before and after a recent hurricane. 
 
 ## Limitations
@@ -22,9 +30,9 @@ foo bar
 - Our focus for this project was financial impact on zip code aggregated median sale prices sourced largely from Zillow.com.
 - This project does not consider nominal or indirect economic costs in isolation, it focuses solely the ultimate impact (or not) on actual median sale prices for a zip code.
 
-## Software/APIs/Libraries Used:
+## Software/APIs/Libraries Used
 
-#### * Python
+#### Python
 - Pandas
 - Numpy
 - Matplotlib: Pyplot
@@ -37,10 +45,8 @@ foo bar
 - Tableau Public
 - Atom Script Editor (For Flask, HTML, CSS)
 
-<ol> Imports UPDATE </ol>
-
 ## Data Dictionary UPDATE THIS
-```
+
 | Column | Description |
 | --- | --- |
 | **Zip** | Zip Code. |
@@ -49,9 +55,6 @@ foo bar
 | **X Affected** | 1 if the zipcode was impacted by Hurricane X according to FEMA, 0 otherwise. |
 | **% Change After X** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 | **Harvey Category** | The numerical categorical severity declaration from FEMA, 0-5 with 5 being the highest. |
- 
-```
- 
 
 ## Features
  
