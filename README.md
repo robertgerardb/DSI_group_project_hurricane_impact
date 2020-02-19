@@ -1,6 +1,6 @@
 
 # Extracting the Impact on Real Estate Sale Prices Following a Hurricane
-This project represents a collaboration between General Assembly DSI10-BOS and New Light Technologies.
+This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ```
 ├── DSI_group_project_hurricane_impact
     ├── visuals
@@ -62,7 +62,7 @@ foo bar
 | **% Change After X** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 | **Harvey Category** | The numerical categorical severity declaration from FEMA using Saffir-Simpson standard, 0-5 with 5 being the highest. |
 
-## Features
+## Minimum Viable Product for Web Application
  
 * Enter a zip code to see the summary statistics<br> 
 #### Home Page of Flask App <br>
@@ -71,10 +71,10 @@ foo bar
 #### Results Page of Flask App<br>
 ![Flask Home Page](./visuals/flask_results.png)
  
-
 ## Sources/Citation
+1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
 
-
+2. <a href="">Bar</a> 
 
 ## Contact Info
 
