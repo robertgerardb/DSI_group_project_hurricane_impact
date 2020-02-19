@@ -3,7 +3,7 @@
 This project represents a collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ```
 ├── DSI_group_project_hurricane_impact
-    ├── Visuals
+    ├── visuals
         ├── fooooo.png
     ├── README.md
     ├── foo.ipynb
@@ -31,18 +31,25 @@ foo bar
 
 ## Software/APIs/Libraries Used
 
-#### Python
+#### Engineering
+- Python
+- Jupyter
 - Pandas
 - Numpy
+
+#### Web Application
+- Flask (Using Python): Flask, request, render_template, session, redirect, url_for
+- Pandas
+- Numpy
+- Atom (For Flask, HTML, CSS)
+- Sys
+
+#### Visuals:
+- Tableau Public
+- Jupyter
 - Matplotlib: Pyplot
 - Seaborn
 - Missingno
-- Flask: Flask, request, render_template, session, redirect, url_for
-- Sys
-
-#### Other:
-- Tableau Public
-- Atom Script Editor (For Flask, HTML, CSS)
 
 ## Data Dictionary UPDATE THIS
 
@@ -71,6 +78,6 @@ foo bar
 
 ## Contact Info
 
-Rose Dennis - email: rosedennis@umass.edu<br>
-Drew Dellarocco- email: drewdellarocco@gmail.com <br>
+Rose Dennis - email: rosedennis@umass.edu <br>
+Drew Dellarocco - email: drewdellarocco@gmail.com <br>
 Robert Becotte - email: robert.becotte@gmail.com <br>
