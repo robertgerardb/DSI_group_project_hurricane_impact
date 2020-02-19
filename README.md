@@ -1,6 +1,7 @@
 
 # Visualizing the Perceived/Actual Impact on Real Estate Sale Prices Following a Hurricane
-This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
+
+#### This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ---
 ## Directory Structure
 ```
