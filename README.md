@@ -13,7 +13,7 @@ This project represents a pro bono academic collaboration between General Assemb
 
 During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage.
 Existing indicators of forecasted damage include number of structures within the affected area, number of people in the area, number of households, demographics of the impacted population, etc.
-This project will add an additional perspective: It will compare how hurricanes do or do not impact median sale prices by zip code before and after the storm.
+This project will add an additional perspective: It will compare how hurricanes do or do not impact median real estate sale prices by zip code before and after the storm.
 
 ## Executive Summary
 
