@@ -1,10 +1,11 @@
 
-# Extracting the Impact on Real Estate Sale Prices Following a Hurricane
+# Visualizing the Perceived and Actual Impact on Real Estate Sale Prices Following a Hurricane
 This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ```
 ├── DSI_group_project_hurricane_impact
     ├── visuals
-        ├── fooooo.png
+        ├── flask_home.png
+        └── flask_results.pdf
     ├── README.md
     ├── foo.ipynb
     └── presentation.pdf
@@ -27,7 +28,7 @@ foo bar
 - For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
 - This initial proof focuses solely on the recent hurricanes of Sandy 2012, Harvey 2017, and Dorian 2019.
 - Our focus for this project was financial impact on zip code aggregated median sale prices sourced largely from Zillow.com.
-- This project does not consider nominal or indirect economic costs in isolation, it focuses solely the ultimate impact (or not) on actual median sale prices for a zip code.
+- This project does not consider nominal or indirect economic costs in isolation, it focuses solely on the ultimate impact (or not) on actual median sale prices for a zip code.
 
 ## Software/APIs/Libraries Used
 
@@ -50,34 +51,47 @@ foo bar
 - Matplotlib: Pyplot
 - Seaborn
 - Missingno
+- Google Slides
 
-## Data Dictionary UPDATE THIS
+## Data Dictionary
 
 | Column | Description |
 | --- | --- |
 | **Zip** | Zip Code. |
 | **Pop Rank** | Ordinal poulation size. 1 is the largest populated zip code, 2 is the second largest. |
-| **X Mean Median** | The median sale price for the nation averaged by zip code for the year. |
-| **X Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
-| **% Change After X** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
+| **XXXX Mean Median** | The average annual sale price of monthly median sale prices recorded for the zip code. |
+| **Hurricane Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
+| **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 | **Harvey Category** | The numerical categorical severity declaration from FEMA using Saffir-Simpson standard, 0-5 with 5 being the highest. |
 
 ## Minimum Viable Product for Web Application
  
-* Enter a zip code to see the summary statistics<br> 
-#### Home Page of Flask App <br>
+#### Enter a zip code to see the summary statistics<br> 
+### Home Page of Flask App <br>
 ![Flask Home Page](./visuals/flask_home.png)
 
-#### Results Page of Flask App<br>
+### Results Page of Flask App for Zip Code 77071 Houston (Median Sale Price dropped ~24.4% directly after Harvey)<br>
 ![Flask Home Page](./visuals/flask_results.png)
  
 ## Sources/Citation
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
 
-2. <a href="">Bar</a> 
+2. <a href="https://www.zillow.com/browse/homes/tx/harris-county/">Zillow: Harris County, TX Zip Codes</a> 
+
+3. <a href="https://www.fema.gov/disaster/4468">FEMA Visual and link for finding official Hurricane Dorian report</a> 
+
+4. <a href="https://www.fema.gov/media-library-data/1572651498411-9b9527200177132f395165f7888d7a67/FEMA4468DRFL.pdf">FEMA preliminary Dorian damage report for finding affected counties</a> 
+
+5. <a href="https://www.getzips.com/county.htm">Converting counties to zipcodes (webscraping)</a> 
+
+6. <a href="https://www.fema.gov/disasters?field_dv2_state_territory_tribal_value_selective=All&field_dv2_incident_type_tid=49124&field_dv2_declaration_type_value=All&field_dv2_incident_begin_value%5Bvalue%5D%5Bmonth%5D=&field_dv2_incident_begin_value%5Bvalue%5D%5Byear%5D=&field_dv2_incident_end_value%5Bvalue%5D%5Bmonth%5D=&field_dv2_incident_end_value%5Bvalue%5D%5Byear%5D=">Easily searchable FEMA database for finding storms:</a> 
+
+7. <a href="">foo</a> 
+
+
 
 ## Contact Info
 
-Rose Dennis - email: rosedennis@umass.edu <br>
-Drew Dellarocco - email: drewdellarocco@gmail.com <br>
-Robert Becotte - email: robert.becotte@gmail.com <br>
+Rose Dennis - email: rosedennis@umass.edu , github: RoseXDennis <br>
+Drew Dellarocco - email: drewdellarocco@gmail.com , github: drewdellarocco <br>
+Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
