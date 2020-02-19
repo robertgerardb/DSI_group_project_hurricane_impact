@@ -64,11 +64,11 @@ foo bar
 
 ## Minimum Viable Product for Web Application
  
-### Enter a zip code to see the summary statistics<br> 
+#### Enter a zip code to see the summary statistics<br> 
 ### Home Page of Flask App <br>
 ![Flask Home Page](./visuals/flask_home.png)
 
-### Results Page of Flask App for Zip Code 77071 Houston (Median Sale Price dropped ~24.4% after directly Harvey)<br>
+### Results Page of Flask App for Zip Code 77071 Houston (Median Sale Price dropped ~24.4% directly after Harvey)<br>
 ![Flask Home Page](./visuals/flask_results.png)
  
 ## Sources/Citation
