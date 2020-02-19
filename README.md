@@ -4,7 +4,8 @@ This project represents a pro bono academic collaboration between General Assemb
 ```
 ├── DSI_group_project_hurricane_impact
     ├── visuals
-        ├── fooooo.png
+        ├── flask_home.png
+        └── flask_results.pdf
     ├── README.md
     ├── foo.ipynb
     └── presentation.pdf
