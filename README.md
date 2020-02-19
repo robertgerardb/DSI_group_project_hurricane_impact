@@ -1,5 +1,5 @@
 
-# Extracting the Impact on Real Estate Sale Prices Following a Hurricane
+# Visualizing the Impact on Real Estate Sale Prices Following a Hurricane
 This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ```
 ├── DSI_group_project_hurricane_impact
@@ -27,7 +27,7 @@ foo bar
 - For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
 - This initial proof focuses solely on the recent hurricanes of Sandy 2012, Harvey 2017, and Dorian 2019.
 - Our focus for this project was financial impact on zip code aggregated median sale prices sourced largely from Zillow.com.
-- This project does not consider nominal or indirect economic costs in isolation, it focuses solely the ultimate impact (or not) on actual median sale prices for a zip code.
+- This project does not consider nominal or indirect economic costs in isolation, it focuses solely on the ultimate impact (or not) on actual median sale prices for a zip code.
 
 ## Software/APIs/Libraries Used
 
@@ -50,8 +50,9 @@ foo bar
 - Matplotlib: Pyplot
 - Seaborn
 - Missingno
+- Google Slides
 
-## Data Dictionary UPDATE THIS
+## Data Dictionary
 
 | Column | Description |
 | --- | --- |
