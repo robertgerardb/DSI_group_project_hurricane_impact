@@ -115,6 +115,9 @@ During a disaster, it is important to model and estimate the potential or foreca
 ### Hurricane Dorian focused on Florida
 ![Dorian Affected Zip Codes](./visuals/dorian_tableau.png)
 
+#### Example Dorian impact
+![Example Dorian impact](./visuals/dorian_matplotlib.png)
+
 ### Hurricane Sandy focused on North East U.S.
 ![Sandy Affected Zip Codes](./visuals/sandy_tableau.png)
 
