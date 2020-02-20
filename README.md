@@ -105,7 +105,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 | --- | --- |
 | **Zip** | Zip Code. |
 | **Pop Rank** | Ordinal population size. 1 is the largest populated zip code, 2 is the second largest. |
-| **XXXX Mean Median** | The average annual sale price of monthly median sale prices recorded for the zip code. |
+| **XXXX Mean Median** | The aggregated average annual sale price from the zip code median sale prices. |
 | **Hurricane Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
 | **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 
