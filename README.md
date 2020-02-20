@@ -102,14 +102,16 @@ foo bar
 | **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 
 ## High Level Overview of Findings
+#### Hot colors indicate largest drops in median sale price after the hurricane
+#### Cold colors indicate largest increases in median sale price after the hurricane
 
-#### Hurricane Dorian
+### Hurricane Dorian
 ![Dorian Affected Zip Codes](./visuals/dorian_tableau.png)
 
-#### Hurricane Harvey
+### Hurricane Harvey
 ![Harcey Affected Zip Codes](./visuals/harvey_tableau.png)
 
-#### Hurricane Sandy
+### Hurricane Sandy
 ![Sandy Affected Zip Codes](./visuals/sandy_tableau.png)
 
 ## Minimum Viable Product for Web Application
