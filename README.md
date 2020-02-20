@@ -10,7 +10,7 @@
 -[2.2 Executive Summary](#22-executive-summary)<br>
 -[2.3 Goals](#23-goals)<br>
 -[2.4 Limitations](#24-limitations)<br>
-[3.0 Software APIs Libraries Used](#30-software-apis-libraries-used)<br>
+[3.0 Software/APIs/Libraries Used](#30-software,-apis,-libraries-used)<br>
 -[3.1 Data Engineering and Collection](#31-data-engineering-and-collection)<br>
 -[3.2 Web Application](#32-web-application)<br>
 -[3.3 Visuals](#33-visuals)<br>
@@ -18,7 +18,7 @@
 [5.0 High Level Overview of Findings](#50-high-level-overview-of-findings)<br>
 -[5.1 Hurricane Dorian](#51-hurricane-dorian)<br>
 -[5.2 Hurricane Sandy](#52-hurricane-sandy)<br>
--[5.3 Hurricane Harvey](#53-hurricane-harvey)<br>
+-[5.3 Hurricane Harvey](#53-hurricane-harvey-focused-on-greater-Houston,-TX)<br>
 [6.0 Minimum Viable Product for Web Application](#60-minimum-viable-product-for-web-application)<br>
 -[6.1 Home Page of Flask App](#61-home-page-of-flask-app)<br>
 -[6.2 Results Page of Flask App](#62-results-page-of-flask-app)<br>
@@ -78,7 +78,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 - Our focus for this project was financial impact on zip code aggregated median sale prices
 - This project considers nominal/actual sale prices, not indirect/real economic costs
 
-## 3.0 Software/APIs/Libraries Used
+## 3.0 Software, APIs, Libraries Used
 
 #### 3.1 Data Engineering and Collection
 - Python
@@ -142,7 +142,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 * What kind of model might we want to use? (regressor/classifier/hybrid)
 * Scale this concept to other natural disasters (Earthquake, fire, tornado)
 
-## 8.0 Sources/Citations
+## 8.0 Sources and Citations
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
 
 2. <a href="https://www.zillow.com/browse/homes/tx/harris-county/">Zillow: Harris County, TX Zip Codes</a> 
