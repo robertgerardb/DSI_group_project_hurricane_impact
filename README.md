@@ -40,15 +40,18 @@
             └── land.html
         └── app_starter.py
     ├── visuals
+        ├── dorian_matplotlib.png
         ├── dorian_tableau.png
         ├── harvey_tableau.png
         ├── flask_home.png
         ├── flask_results.png
         └── sandy_tableau.png
-    ├── Exploring Perceived/Actual Impact on Property Value after a Hurricane.pdf
+    ├── Exploring Perceived_Actual Impact on Property Value after a Hurricane.pdf
     ├── README.md
     ├── initial_imports_cleaning_engineering.ipynb
-    └── visual_notebook_example.ipynb
+    ├── master_df.csv
+    ├── visual_notebook_example.ipynb
+    └── zipcode_scraping_example.ipynb
 ```    
 ## Problem Statement
 
