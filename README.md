@@ -1,5 +1,5 @@
 
-# Visualizing the Perceived/Actual Impact on Real Estate Sale Prices Following a Hurricane
+# Exploring Perceived/Actual Impact on Property Value after a Hurricane
 
 #### This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ---
@@ -24,9 +24,12 @@
 ```
 ## Problem Statement
 
+#### How did we get here? 
 During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage.
 Existing indicators of forecasted damage include number of structures within the affected area, number of people in the area, number of households, demographics of the impacted population, etc.
-This project will add an additional perspective: It will compare how hurricanes do or do not impact median real estate sale prices by zip code before and after the storm.
+This project will add an additional perspective: It will compare how hurricanes do or do not impact real estate sale prices by zip code before and after the storm.
+
+#### How do we quickly glean insights on property values before and after a hurricane through a user friendly application?
 
 ## Executive Summary
 
@@ -34,7 +37,7 @@ Foo Bar
 foo bar
  
 ## Goal
-- Our team aims to provide an initial proof of concept for a potential web application using Flask software for Python. This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected before and after a recent hurricane. 
+- Our team aims to provide an initial proof of concept for a potential web application using Flask software for Python. This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected after a hurricane.
 
 ## Limitations
 - For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
@@ -103,6 +106,8 @@ foo bar
 8. <a href="https://www.livescience.com/40774-hurricane-sandy-s-impact-infographic.html">Hurricane Sandy Damage</a> 
 
 9. <a href="https://www.ncdc.noaa.gov/billions/">Financial Impact of Hurricanes from NOAA.gov</a> 
+
+10.  <a href="https://fred.stlouisfed.org/series/MSPUS?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=categories#0">Year over Year National Sale Prices from St. Louis Federal Reserve</a> 
 
 ## Contact Info
 
