@@ -28,7 +28,7 @@
 #### Contact Info
 ---
 ## Directory Structure
-
+```
 ├── DSI_group_project_hurricane_impact
     ├── flask_app
         ├── static
@@ -48,7 +48,7 @@
     ├── README.md
     ├── FOO PYTHON DOCUMENTS TO UPDATE.ipynb
     └── presentationFOOOBARRR.pdf
-    
+```    
 ## Problem Statement
 
 #### How did we get here? 
