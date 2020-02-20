@@ -10,7 +10,7 @@
 -[2.2 Executive Summary](#22-executive-summary)<br>
 -[2.3 Goals](#23-goals)<br>
 -[2.4 Limitations](#24-limitations)<br>
-[3.0 Software/APIs/Libraries Used](#30-software/apis/libraries-used)<br>
+[3.0 Software APIs Libraries Used](#30-software-apis-libraries-used)<br>
 -[3.1 Data Engineering and Collection](#31-data-engineering-and-collection)<br>
 -[3.2 Web Application](#32-web-application)<br>
 -[3.3 Visuals](#33-visuals)<br>
@@ -23,7 +23,7 @@
 -[6.1 Home Page of Flask App](#61-home-page-of-flask-app)<br>
 -[6.2 Results Page of Flask App](#62-results-page-of-flask-app)<br>
 [7.0 Next Steps and Recommendations](#70-next-steps-and-recommendations)<br>
-[8.0 Sources/Citations](#80-sources-citations)<br>
+[8.0 Sources and Citations](#80-sources-and-citations)<br>
 [9.0 Contact Info](#90-contact-info)<br>
 
 ---
