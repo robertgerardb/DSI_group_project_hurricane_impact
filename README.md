@@ -4,7 +4,7 @@
 #### This is a pro bono academic proof of concept between General Assembly DSI10-BOS and New Light Technologies.
 ---
 ## Table of Contents:
-(#### Directory Structure)
+#### Directory Structure
 #### Orientation
 * Problem Statement
 * How did we get here?
@@ -27,7 +27,7 @@
 #### Sources/Citation
 #### Contact Info
 ---
-[Directory](## Directory Structure)
+## Directory Structure
 ```
 ├── DSI_group_project_hurricane_impact
     ├── flask_app
