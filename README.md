@@ -6,22 +6,10 @@
 ## Table of Contents:
 [1.0 Directory Structure](#10-directory-structure)<br>
 [2.0 Problem Statement](#20-problem-statement)<br>
--[2.1 How did we get here?](#21-how-did-we-get-here)<br>
--[2.2 Executive Summary](#22-executive-summary)<br>
--[2.3 Goals](#23-goals)<br>
--[2.4 Limitations](#24-limitations)<br>
 [3.0 Software/APIs/Libraries Used](#30-software,-apis,-libraries-used)<br>
--[3.1 Data Engineering and Collection](#31-data-engineering-and-collection)<br>
--[3.2 Web Application](#32-web-application)<br>
--[3.3 Visuals](#33-visuals)<br>
 [4.0 Data Dictionary](#40-data-dictionary)<br>
 [5.0 High Level Overview of Findings](#50-high-level-overview-of-findings)<br>
--[5.1 Hurricane Dorian](#51-hurricane-dorian)<br>
--[5.2 Hurricane Sandy](#52-hurricane-sandy)<br>
--[5.3 Hurricane Harvey](#53-hurricane-harvey-focused-on-greater-Houston,-TX)<br>
 [6.0 Minimum Viable Product for Web Application](#60-minimum-viable-product-for-web-application)<br>
--[6.1 Home Page of Flask App](#61-home-page-of-flask-app)<br>
--[6.2 Results Page of Flask App](#62-results-page-of-flask-app)<br>
 [7.0 Next Steps and Recommendations](#70-next-steps-and-recommendations)<br>
 [8.0 Sources and Citations](#80-sources-and-citations)<br>
 [9.0 Contact Info](#90-contact-info)<br>
