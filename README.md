@@ -6,7 +6,7 @@
 ## Table of Contents:
 [1.0 Directory Structure](#10-directory-structure)<br>
 [2.0 Problem Statement](#20-problem-statement)<br>
-[3.0 Software/APIs/Libraries Used](#30-software/apis/libraries-used)<br>
+[3.0 Software APIs Libraries Used](#30-software-apis-libraries-used)<br>
 [4.0 Data Dictionary](#40-data-dictionary)<br>
 [5.0 High Level Overview of Findings](#50-high-level-overview-of-findings)<br>
 [6.0 Minimum Viable Product for Web Application](#60-minimum-viable-product-for-web-application)<br>
