@@ -46,8 +46,8 @@
         ├── flask_results.png
         └── sandy_tableau.png
     ├── dsi_group_project_presentation.pdf
-    ├── initial_imports_cleaning_engineering.ipynbpresentationFOOOBARRR.pdf
     ├── README.md
+    ├── initial_imports_cleaning_engineering.ipynb
     └── visual_notebook_example.ipynb
 ```    
 ## Problem Statement
