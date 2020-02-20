@@ -109,13 +109,13 @@ foo bar
 #### Hot colors indicate largest drops in median sale price after the hurricane
 #### Cold colors indicate largest increases in median sale price after the hurricane
 
-### Hurricane Dorian
+### Hurricane Dorian focused on Florida
 ![Dorian Affected Zip Codes](./visuals/dorian_tableau.png)
 
-### Hurricane Harvey
+### Hurricane Harvey focused on greater Houston, TX
 ![Harcey Affected Zip Codes](./visuals/harvey_tableau.png)
 
-### Hurricane Sandy
+### Hurricane Sandy focused on North East U.S.
 ![Sandy Affected Zip Codes](./visuals/sandy_tableau.png)
 
 ## Minimum Viable Product for Web Application
