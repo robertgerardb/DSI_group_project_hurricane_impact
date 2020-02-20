@@ -104,10 +104,13 @@ foo bar
 ## High Level Overview of Findings
 
 #### Hurricane Dorian
+![Dorian Affected Zip Codes](./visuals/dorian_tableau.png)
 
 #### Hurricane Harvey
+![Harcey Affected Zip Codes](./visuals/harvey_tableau.png)
 
 #### Hurricane Sandy
+![Sandy Affected Zip Codes](./visuals/sandy_tableau.png)
 
 ## Minimum Viable Product for Web Application
  
