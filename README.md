@@ -18,8 +18,8 @@
 #### Data Dictionary
 #### High Level Overview of Findings
 * Hurricane Dorian
-* Hurricane Harvey
 * Hurricane Sandy
+* Hurricane Harvey
 #### Minimum Viable Product for Web Application
 * Home Page of Flask App
 * Results Page of Flask App
@@ -112,11 +112,11 @@ foo bar
 ### Hurricane Dorian focused on Florida
 ![Dorian Affected Zip Codes](./visuals/dorian_tableau.png)
 
-### Hurricane Harvey focused on greater Houston, TX
-![Harcey Affected Zip Codes](./visuals/harvey_tableau.png)
-
 ### Hurricane Sandy focused on North East U.S.
 ![Sandy Affected Zip Codes](./visuals/sandy_tableau.png)
+
+### Hurricane Harvey focused on greater Houston, TX
+![Harcey Affected Zip Codes](./visuals/harvey_tableau.png)
 
 ## Minimum Viable Product for Web Application
  
