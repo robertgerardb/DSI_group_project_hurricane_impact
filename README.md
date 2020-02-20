@@ -9,7 +9,7 @@
 * Problem Statement
 * How did we get here?
 * Executive Summary
-* Goal
+* Goals
 * Limitations
 #### Software/APIs/Libraries Used
 * Engineering
@@ -49,9 +49,7 @@
 ## Problem Statement
 
 #### How did we get here? 
-During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage.
-Existing indicators of forecasted damage include number of structures within the affected area, number of people in the area, number of households, demographics of the impacted population, etc.
-This project will add an additional perspective: It will compare how hurricanes do or do not impact real estate sale prices by zip code before and after the storm.
+During a disaster, it is important to model and estimate the potential or forecasted effect of the event, including the projected/forecasted damage. Existing indicators of forecasted damage include number of structures within the affected area, number of people in the area, number of households, demographics of the impacted population, etc. This project will add an additional perspective: It will compare how hurricanes do or do not impact real estate sale prices by zip code before and after the storm.
 
 #### How do we quickly glean insights on property values before and after a hurricane through a user friendly application?
 
@@ -60,14 +58,15 @@ This project will add an additional perspective: It will compare how hurricanes 
 Foo Bar
 foo bar
  
-## Goal
-- Our team aims to provide an initial proof of concept for a potential web application using Flask software for Python. This rudimentary web application will allow the user to input a zip code and see summary statistics for how median real estate prices were affected after a hurricane.
+## Goals
+* Provide an initial proof of concept for a potential web application using Flask software for Python. 
+* This rudimentary web app will allow the user to input a zip code and see summary statistics for how median real estate prices were affected after a hurricane.
 
 ## Limitations
-- For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
-- This initial proof focuses solely on the recent hurricanes of Sandy 2012, Harvey 2017, and Dorian 2019.
-- Our focus for this project was financial impact on zip code aggregated median sale prices, sourced largely from Zillow.com.
-- This project does not consider nominal or indirect economic costs in isolation, it focuses solely on the ultimate impact (or not) on actual median sale prices for a zip code.
+- We used the top ~6000 zip codes by population, not the ~41000 exhaustive list of zips
+- This initial proof focuses on the recent hurricanes of Sandy, Harvey, and Dorian
+- Our focus for this project was financial impact on zip code aggregated median sale prices
+- This project considers nominal/actual sale prices, not indirect/real economic costs
 
 ## Software/APIs/Libraries Used
 
