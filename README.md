@@ -45,9 +45,10 @@
         ├── flask_home.png
         ├── flask_results.png
         └── sandy_tableau.png
-    ├── consolidated_jupyter_nb.ipynb
-    ├── presentationFOOOBARRR.pdf
-    └── README.md
+    ├── dsi_group_project_presentation.pdf
+    ├── initial_imports_cleaning_engineering.ipynbpresentationFOOOBARRR.pdf
+    ├── README.md
+    └── visual_notebook_example.ipynb
 ```    
 ## Problem Statement
 
