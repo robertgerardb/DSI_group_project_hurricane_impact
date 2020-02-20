@@ -66,7 +66,7 @@ foo bar
 ## Limitations
 - For this project we only used the top ~6000 zip codes by population, not the entire ~41000 exhaustive list of zip codes.
 - This initial proof focuses solely on the recent hurricanes of Sandy 2012, Harvey 2017, and Dorian 2019.
-- Our focus for this project was financial impact on zip code aggregated median sale prices sourced largely from Zillow.com.
+- Our focus for this project was financial impact on zip code aggregated median sale prices, sourced largely from Zillow.com.
 - This project does not consider nominal or indirect economic costs in isolation, it focuses solely on the ultimate impact (or not) on actual median sale prices for a zip code.
 
 ## Software/APIs/Libraries Used
