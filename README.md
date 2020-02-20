@@ -63,7 +63,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 
 * We identified large fluctuations in sale price in the affected areas, even when comparing adjacent zip codes, suggesting limited geographic relevance.
 
-* Hurricane Harvey experienced the highest damage count of $125B, the real estate prices were virtually unaffected when compared to the national average.
+* Hurricane Harvey produced the highest damage count of $125B, the real estate prices were virtually unaffected when compared to the national average.
  
 ## Goals
 * Provide an initial proof of concept for a potential web application using Flask software for Python. 
