@@ -132,7 +132,11 @@ During a disaster, it is important to model and estimate the potential or foreca
 ![Flask Home Page](./visuals/flask_results.png)
 
 ## Next Steps and Recommendations
- 
+* Why are the most negatively impacted zip codes adjacent to the most positively impacted zip codes? (Elevation, levies, state/fed resources) 
+* How can we best feature engineer zoning laws and real estate regulations into a machine learning model? (Binary dummies, ordinal)
+* What kind of model might we want to use? (regressor/classifier/hybrid)
+* Scale this concept to other natural disasters (Earthquake, fire, tornado)
+
 ## Sources/Citation
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
 
