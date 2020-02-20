@@ -1,7 +1,7 @@
 
 # Exploring Perceived/Actual Impact on Property Value after a Hurricane
 
-#### This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
+#### This is a pro bono academic proof of concept between General Assembly DSI10-BOS and New Light Technologies.
 ---
 ## Table of Contents:
 #### Directory Structure
