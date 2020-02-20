@@ -77,11 +77,12 @@ During a disaster, it is important to model and estimate the potential or foreca
 
 ## Software/APIs/Libraries Used
 
-#### Engineering
+#### Data Engineering and Collection
 - Python
 - Jupyter
 - Pandas
 - Numpy
+- Beautiful Soup
 
 #### Web Application
 - Flask (Using Python): Flask, request, render_template, session, redirect, url_for
@@ -92,9 +93,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 
 #### Visuals
 - Tableau Public
-- Jupyter
 - Matplotlib: Pyplot
-- Seaborn
 - Missingno
 - Google Slides
 - Adobe Acrobat
