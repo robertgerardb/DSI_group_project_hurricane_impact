@@ -100,7 +100,6 @@ foo bar
 | **XXXX Mean Median** | The average annual sale price of monthly median sale prices recorded for the zip code. |
 | **Hurricane Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
 | **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
-| **Harvey Category** | The numerical categorical severity declaration from FEMA using Saffir-Simpson standard, 0-5 with 5 being the highest. |
 
 ## High Level Overview of Findings
 
