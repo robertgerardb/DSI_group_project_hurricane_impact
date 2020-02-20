@@ -28,7 +28,7 @@
 #### Contact Info
 ---
 ## Directory Structure
-```
+
 ├── DSI_group_project_hurricane_impact
     ├── flask_app
         ├── static
@@ -40,12 +40,15 @@
             └── land.html
         └── app_starter.py
     ├── visuals
+        ├── dorian_tableau.png
+        ├── harvey_tableau.png
         ├── flask_home.png
-        └── flask_results.png
+        ├── flask_results.png
+        └── sandy_tableau.png
     ├── README.md
     ├── FOO PYTHON DOCUMENTS TO UPDATE.ipynb
     └── presentationFOOOBARRR.pdf
-```
+    
 ## Problem Statement
 
 #### How did we get here? 
