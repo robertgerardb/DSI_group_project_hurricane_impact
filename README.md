@@ -3,6 +3,30 @@
 
 #### This project represents a pro bono academic collaboration between General Assembly DSI10-BOS and New Light Technologies.
 ---
+## Table of Contents:
+#### Directory Structure
+#### Orientation
+* Problem Statement
+* How did we get here?
+* Executive Summary
+* Goal
+* Limitations
+#### Software/APIs/Libraries Used
+* Engineering
+* Web Application
+* Visuals
+#### Data Dictionary
+#### High Level Overview of Findings
+* Hurricane Dorian
+* Hurricane Harvey
+* Hurricane Sandy
+#### Minimum Viable Product for Web Application
+* Home Page of Flask App
+* Results Page of Flask App
+#### Next Steps and Recommendations
+#### Sources/Citation
+#### Contact Info
+---
 ## Directory Structure
 ```
 ├── DSI_group_project_hurricane_impact
@@ -60,7 +84,7 @@ foo bar
 - Atom (For Flask, HTML, CSS)
 - Sys
 
-#### Visuals:
+#### Visuals
 - Tableau Public
 - Jupyter
 - Matplotlib: Pyplot
@@ -79,6 +103,14 @@ foo bar
 | **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 | **Harvey Category** | The numerical categorical severity declaration from FEMA using Saffir-Simpson standard, 0-5 with 5 being the highest. |
 
+## High Level Overview of Findings
+
+#### Hurricane Dorian
+
+#### Hurricane Harvey
+
+#### Hurricane Sandy
+
 ## Minimum Viable Product for Web Application
  
 #### Enter a zip code to see the summary statistics<br> 
@@ -87,6 +119,8 @@ foo bar
 
 ### Results Page of Flask App for Zip Code 77071 Houston (Median Sale Price dropped ~24.4% directly after Harvey)<br>
 ![Flask Home Page](./visuals/flask_results.png)
+
+## Next Steps and Recommendations
  
 ## Sources/Citation
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
