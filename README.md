@@ -20,10 +20,10 @@
 -[5.2 Hurricane Sandy](#52-hurricane-sandy)<br>
 -[5.3 Hurricane Harvey](#53-hurricane-harvey)<br>
 [6.0 Minimum Viable Product for Web Application](#60-minimum-viable-product-for-web-application)<br>
--[6.1 Home Page of Flask App](#51-home-page-of-flask-app)<br>
--[6.2 Results Page of Flask App](#52-results-page-of-flask-app)<br>
+-[6.1 Home Page of Flask App](#61-home-page-of-flask-app)<br>
+-[6.2 Results Page of Flask App](#62-results-page-of-flask-app)<br>
 [7.0 Next Steps and Recommendations](#70-next-steps-and-recommendations)<br>
-[8.0 sources/Citations](#80-sources/citations)<br>
+[8.0 Sources/Citations](#80-sources/citations)<br>
 [9.0 Contact Info](#90-contact-info)<br>
 
 ---
