@@ -23,7 +23,7 @@
 -[6.1 Home Page of Flask App](#61-home-page-of-flask-app)<br>
 -[6.2 Results Page of Flask App](#62-results-page-of-flask-app)<br>
 [7.0 Next Steps and Recommendations](#70-next-steps-and-recommendations)<br>
-[8.0 Sources/Citations](#80-sources/citations)<br>
+[8.0 Sources/Citations](#80-sources-citations)<br>
 [9.0 Contact Info](#90-contact-info)<br>
 
 ---
