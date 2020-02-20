@@ -66,7 +66,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 - Our focus for this project was financial impact on zip code aggregated median sale prices
 - This project considers nominal/actual sale prices, not indirect/real economic costs
 
-## 3.0 Software, APIs, Libraries Used
+## 3.0 Software/APIs/Libraries Used
 
 #### 3.1 Data Engineering and Collection
 - Python
