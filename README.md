@@ -45,9 +45,9 @@
         ├── flask_home.png
         ├── flask_results.png
         └── sandy_tableau.png
-    ├── README.md
-    ├── FOO PYTHON DOCUMENTS TO UPDATE.ipynb
-    └── presentationFOOOBARRR.pdf
+    ├── consolidated_jupyter_nb.ipynb
+    ├── presentationFOOOBARRR.pdf
+    └── README.md
 ```    
 ## Problem Statement
 
