@@ -59,8 +59,11 @@ During a disaster, it is important to model and estimate the potential or foreca
 
 ## Executive Summary
 
-Foo Bar
-foo bar
+* While hurricanes have numerous nominal and real costs on individuals, groups, property, and governments, we have found that their impact on real estate sale prices does not necessarily follow intuitive logic (size, proximity to storm or ocean).
+
+* We identified large fluctuations in sale price in the affected areas, even when comparing adjacent zip codes, suggesting limited geographic relevance.
+
+* Hurricane Harvey experienced the highest damage count of $125B, the real estate prices were virtually unaffected when compared to the national average.
  
 ## Goals
 * Provide an initial proof of concept for a potential web application using Flask software for Python. 
