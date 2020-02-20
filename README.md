@@ -136,7 +136,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 * What kind of model might we want to use? (regressor/classifier/hybrid)
 * Scale this concept to other natural disasters (Earthquake, fire, tornado)
 
-## Sources/Citation
+## Sources/Citations
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a> 
 
 2. <a href="https://www.zillow.com/browse/homes/tx/harris-county/">Zillow: Harris County, TX Zip Codes</a> 
