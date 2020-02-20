@@ -45,7 +45,7 @@
         ├── flask_home.png
         ├── flask_results.png
         └── sandy_tableau.png
-    ├── dsi_group_project_presentation.pdf
+    ├── Exploring Perceived/Actual Impact on Property Value after a Hurricane.pdf
     ├── README.md
     ├── initial_imports_cleaning_engineering.ipynb
     └── visual_notebook_example.ipynb
