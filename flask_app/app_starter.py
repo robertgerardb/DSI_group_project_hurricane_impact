@@ -5,7 +5,7 @@ import sys
 
 app = Flask('Zip Code Statistics')
 
-df = pd.read_csv('../datasets/master_df.csv')
+df = pd.read_csv('./master_df.csv')
 
 @app.route('/', methods=("POST", "GET")) #homepage
 def home():
