@@ -60,7 +60,7 @@ During a disaster, it is important to model and estimate the potential or foreca
 * Provide an initial proof of concept for a potential web application using Flask software for Python. 
 * This rudimentary web app will allow the user to input a zip code and see summary statistics for how median real estate prices were affected after a hurricane.
 
-## 2.4 Limitations
+## 2.4 Constraints
 - We used the top ~6000 zip codes by population, not the ~41000 exhaustive list of zips
 - This initial proof focuses on the recent hurricanes of Sandy, Harvey, and Dorian
 - Our focus for this project was financial impact on zip code aggregated median sale prices
